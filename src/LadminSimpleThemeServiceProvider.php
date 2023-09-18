@@ -2,9 +2,9 @@
 
 namespace LowB\LadminSimpleTheme;
 
+use LowB\LadminSimpleTheme\Commands\LadminSimpleThemeCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use LowB\LadminSimpleTheme\Commands\LadminSimpleThemeCommand;
 
 class LadminSimpleThemeServiceProvider extends PackageServiceProvider
 {

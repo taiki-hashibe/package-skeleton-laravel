@@ -3,8 +3,8 @@
 namespace LowB\LadminSimpleTheme\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use LowB\LadminSimpleTheme\LadminSimpleThemeServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
